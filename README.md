@@ -13,4 +13,4 @@ Output : Recommended movie based on Input movie name
 
 
 
-NOTE : Add your API Key in spp.py and then run the code
+NOTE : Add your API Key in app.py and then run the code
